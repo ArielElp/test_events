@@ -1,0 +1,13 @@
+mod accesscontrol_mocks;
+mod account_mocks;
+mod erc20_mocks;
+mod erc721_mocks;
+mod erc721_receiver_mocks;
+mod initializable_mock;
+mod non_implementing_mock;
+mod ownable_mocks;
+mod pausable_mock;
+mod reentrancy_attacker_mock;
+mod reentrancy_mock;
+mod src5_mocks;
+mod upgrades_mocks;
